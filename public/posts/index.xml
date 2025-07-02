@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Karan Dhillon</title>
+    <link>https://karandhillon.com/posts/</link>
+    <description>Recent content in Posts on Karan Dhillon</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 02 Jul 2025 15:23:32 -0400</lastBuildDate>
+    <atom:link href="https://karandhillon.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://karandhillon.com/posts/my-first-post/</link>
+      <pubDate>Wed, 02 Jul 2025 15:23:32 -0400</pubDate>
+      <guid>https://karandhillon.com/posts/my-first-post/</guid>
+      <description>&lt;h1 id=&#34;my-first-post&#34;&gt;My first post&lt;/h1&gt;&#xA;&lt;p&gt;Hello World!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
