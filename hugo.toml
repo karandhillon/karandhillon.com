@@ -1,4 +1,4 @@
 baseURL = 'https://karandhillon.com/'
 languageCode = 'en-us'
 title = 'Karan Dhillon'
-theme = 'ananke'
+theme = 'PaperMod'
