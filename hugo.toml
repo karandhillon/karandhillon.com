@@ -2,3 +2,8 @@ baseURL = 'https://karandhillon.com/'
 languageCode = 'en-us'
 title = 'Karan Dhillon'
 theme = 'PaperMod'
+
+[params]
+    hideFooter = true
+    defaultTheme = "dark"
+    disableThemeToggle = true
